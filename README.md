@@ -10,5 +10,7 @@ Geocoding provided by Google Extension `Geocoding by SmartMonkey`
 2. Use `Geocoding by SmartMonkey` to convert unique addresses to lat/long
 3. Use `R` to do some data analysis with leaflet.
 
+`mpkCrimeMap.html` has an html applet you can open with a desktop browser.
 
-
+### Screen shot
+![screen shot of the map](misc/Screenshot_of_html.png)
